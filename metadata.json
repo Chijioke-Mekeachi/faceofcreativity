@@ -1,0 +1,6 @@
+{
+  "name": "Face of Creativity - Nigeria Creative & Model Competition",
+  "description": "Official platform for Face of Creativity Nigeria. Discover, vote for, and celebrate rising Nigerian models, fashion innovators, and creative talents with live leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
